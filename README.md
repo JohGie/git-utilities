@@ -1,5 +1,4 @@
-This GitHub repository contains files used by and explained in Wilson Mar's
-Git and GitHub course.
+This GitHub repository contains files used by Johann Gietl
 
 There are two editions of scripts in this repo.
 
